@@ -1,0 +1,26 @@
+{
+    "count_trans": 293,
+    "count_gnc": 217,
+    "sample": 15288,
+    "count_trans_ny": 17,
+    "count_gnc_ny": 9,
+    "sample_ny": 961,
+    "count_trans_ca": 33,
+    "count_gnc_ca": 33,
+    "sample_ca": 2163,
+    "trans_results": {
+        "% Trans USA": 1.92,
+        "% Trans NY": 1.77,
+        "% Trans CA": 1.53
+    },
+    "gnc_results": {
+        "% nc USA": 1.42,
+        "% nc NY": 0.94,
+        "% nc CA": 1.53
+    },
+    "trans_umbrella": {
+        "% USA": 3.34,
+        "% NY": 2.71,
+        "% CA": 3.06
+    }
+}
